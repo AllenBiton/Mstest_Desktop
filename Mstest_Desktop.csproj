@@ -41,7 +41,9 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="Typemock.ArrangeActAssert, Version=9.1.0.0, Culture=neutral, PublicKeyToken=3dae460033b8d8e2, processorArchitecture=MSIL" />
+    <Reference Include="Typemock.ArrangeActAssert">
+      <HintPath>C:\Program Files (x86)\Typemock\Isolator\9.1\PublicAssemblies\Typemock.ArrangeActAssert.Dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="UnitTest1.cs" />
