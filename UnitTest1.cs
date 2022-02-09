@@ -62,7 +62,7 @@ namespace Mstest_Desktop
             var result = obj.sum(2, 3);
 
             // assert
-            Assert.AreEqual(11, result);
+            Assert.AreEqual(10, result);
         }
 
     }
