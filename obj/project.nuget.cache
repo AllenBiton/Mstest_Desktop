@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uQARxqS1XHGNDM/YZ7WRheQA5bJ4kMSXxzxTVDHNdLXrpZ6kwwQ3Eb85yAB5GjcViaoFDysJ2csnN70tegH2Pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alons\\Desktop\\Mstest_Desktop\\Mstest_Desktop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alons\\.nuget\\packages\\mstest.testadapter\\2.2.5\\mstest.testadapter.2.2.5.nupkg.sha512",
+    "C:\\Users\\alons\\.nuget\\packages\\mstest.testframework\\2.2.5\\mstest.testframework.2.2.5.nupkg.sha512"
+  ],
+  "logs": []
+}

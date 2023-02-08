@@ -1,0 +1,17 @@
+C:\Users\alons\Desktop\Mstest_Desktop\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\alons\Desktop\Mstest_Desktop\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\alons\Desktop\Mstest_Desktop\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\alons\Desktop\Mstest_Desktop\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\alons\Desktop\Mstest_Desktop\bin\Debug\Mstest_Desktop.dll
+C:\Users\alons\Desktop\Mstest_Desktop\bin\Debug\Mstest_Desktop.pdb
+C:\Users\alons\Desktop\Mstest_Desktop\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\alons\Desktop\Mstest_Desktop\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\alons\Desktop\Mstest_Desktop\bin\Debug\Typemock.ArrangeActAssert.Dll
+C:\Users\alons\Desktop\Mstest_Desktop\bin\Debug\TypeMock.Dll
+C:\Users\alons\Desktop\Mstest_Desktop\bin\Debug\TypeMock.xml
+C:\Users\alons\Desktop\Mstest_Desktop\bin\Debug\Typemock.ArrangeActAssert.xml
+C:\Users\alons\Desktop\Mstest_Desktop\obj\Debug\Mstest_Desktop.csproj.AssemblyReference.cache
+C:\Users\alons\Desktop\Mstest_Desktop\obj\Debug\Mstest_Desktop.csproj.CoreCompileInputs.cache
+C:\Users\alons\Desktop\Mstest_Desktop\obj\Debug\Mstest_Desktop.csproj.CopyComplete
+C:\Users\alons\Desktop\Mstest_Desktop\obj\Debug\Mstest_Desktop.dll
+C:\Users\alons\Desktop\Mstest_Desktop\obj\Debug\Mstest_Desktop.pdb
